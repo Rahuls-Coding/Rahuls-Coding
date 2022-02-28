@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rahuls-Cool
+- 👋 Hey, I’m Rahul Rajkumar!
 - 👀 I’m interested in programming, biking, and especially eating 
-- 🌱 I’m currently learning React.js and Next.js
-- 💞️ I’m looking to collaborate on projects that invovle react.js, next.js, or python!
-- 📫 How to reach me ... you kind of can't
+- 🌱 I’m currently learning Javascript and React.js
+- 💞️ I’m looking to collaborate on any project related to web dev and blockchain
+- 📫 How to reach me ... you kind of can't ... jk DM on twitter!
 
 <!---
 Rahulpams/Rahulpams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
