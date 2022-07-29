@@ -11,7 +11,7 @@
 -->
 </p>
 
-<p> Hey! I&#39;m Rahul! I'm currently at sophmore at Cox Mill High School, in North Carolina. I started programming when I 13 years old and fell in love ever since. I&#39;m now passionately learning about Blockchain tech and it&#39;s cool functionalities. 
+<p> Hey! I&#39;m Rahul! I'm currently at sophmore at Cox Mill High School, in North Carolina. I started programming when I was 13 years old and fell in love ever since. I&#39;m now passionately learning about Blockchain tech and it&#39;s cool functionalities. 
 </p>
 
 <p>Some of the programming languages I know are:</p>
