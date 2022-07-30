@@ -7,7 +7,7 @@
 <a href="https://open.spotify.com/user/31ygjtd6qnsipknn3qzmwjidtzuu?si=-yOz-AfDR1msGjoKn65u6g"><img src="https://img.shields.io/badge/-spotify-ff7700?style=for-the-badge&amp;logo=Spotify&amp;logoColor=white&amp;link=https://open.spotify.com/user/31ygjtd6qnsipknn3qzmwjidtzuu?si=-yOz-AfDR1msGjoKn65u6g" alt="Spotify"></a>
 <a href="https://twitter.com/Rahuls_Coding/"><img src="https://img.shields.io/badge/-Twitter-ff8c00?style=for-the-badge&amp;fontColor=white&amp;logo=Twitter&amp;logoColor=white&amp;link=https://twitter.com/Rahuls-Coding/" alt="Twitter"></a>
 <!--
-<a href="https://instagram.com/"><img src="https://img.shields.io/badge/-Instagram-ffa300?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://instagram.com/" alt="Instagram"></a>
+<a href="mailto:rahulscodingworld@gmail.com"><img src="https://img.shields.io/badge/-Email-ffa300?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=mailto:rahulscodingworld@gmail.com" alt="Email"></a>
 -->
 </p>
 
