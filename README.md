@@ -10,7 +10,7 @@
 
 </p>
 
-<p> Hey! I&#39;m Rahul! I'm currently a sophmore at Cox Mill High School, in North Carolina. I started programming when I was 13 years old and fell in love ever since. I&#39;m now passionately learning about Blockchain tech and it&#39;s cool functionalities. 
+<p> Hey! I&#39;m Rahul! I'm currently a sophmore at Cox Mill High School, in North Carolina. I started programming when I was 13 years old and fell in love ever since. Right now I&#39;m learning about Machine Learning/Artificial Intelligence and Blockchain (Mostly Ethereum and Solana). 
 </p>
 
 <p>Some of the programming languages I know are:</p>
