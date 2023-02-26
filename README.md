@@ -19,7 +19,7 @@
   <li><code>JavaScript <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' width=13 alt='javascript'/></code></li>
   <li><code>TypeScript <img src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg' width=13 alt='typescript'/></code></li>
   <li><code>Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=13 alt="Python"/></code></li>
-  <li><code> Rust <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width=13 alt='Rust'/></code></li> 
+  <li><code>Rust <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width=13 alt='Rust'/></code></li> 
   <li><code>Solidity <img src='https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg' width=9 alt='solidity'/></code></li>
 </ul>
 
