@@ -3,7 +3,7 @@
 <p> Hey! I&#39;m Rahul! I'm currently a junior at Northstar Academy. I started programming when I was 13 years old and fell in love ever since. Right now I&#39;m learning about Artificial Intelligence, specfically Machine Learning and NLP. 
 </p>
 
-<p>Some of the programming languages I know are:</p>
+<p>Some of the programming languages I love are:</p>
 
 <ul>
   <li><code>JavaScript <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' width=13 alt='javascript'/></code></li>
