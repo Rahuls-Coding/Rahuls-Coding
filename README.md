@@ -15,6 +15,6 @@
 
 
 
-<p>Other then programming, I also love to bike & travel. I&#39;ve visted nearly 7 countries and hope to visit more! I&#39;m also in this super cool community called <a href="https://hackclub.com">Hack Club</a>. You can contact me on Hack Club Slack  <code>@LilRil</code>!</p>
+<p>Other then programming, I also love to bike & travel. I&#39;ve visted nearly 7 countries and hope to visit more! </p>
 
 <p>If you want to reach me, you can check out my <a href="https://www.linkedin.com/in/rahulscoding/">Linkedin</a>, <a href="https://twitter.com/Rahuls_Coding/">Twitter</a>, <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rahulscoding1@gmail.com">Email</a>, or <a href="https://rahulrajkumar.me"> My Personal Website</a>.
