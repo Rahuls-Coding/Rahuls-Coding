@@ -1,6 +1,6 @@
 
 
-<p> Hey! I&#39;m Rahul! I'm currently a junior at Northstar Academy. I started programming when I was 13 years old and fell in love ever since. Right now I&#39;m learning about Artificial Intelligence, specfically Machine Learning and NLP. 
+<p> Hey! I&#39;m Rahul! I'm currently a senior at Hillsborough High School. I started programming when I was 13 years old and fell in love ever since. Right now I&#39;m learning about Artificial Intelligence, specfically Machine Learning and NLP. 
 </p>
 
 <p>Some of the programming languages I love are:</p>
